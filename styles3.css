@@ -1,0 +1,208 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Poppins",  sans-serif;
+}
+
+.pic
+{
+width: 100%;
+height: 2000px;
+background-color: #c0d9d9;
+}
+
+.imge1
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge2
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge3
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge4
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge5
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge6
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge7
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge8
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge9
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge10
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge11
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge12
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge13
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge14
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge15
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge16
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge17
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+.imge18
+{
+width: 400px;
+height: 223px;
+position: relative;
+left: 10%;
+top: 350px;
+}
+
+nav{
+width: 100%;
+position: absolute;
+top: 0;
+left: 0;
+padding: 20px  8%;
+display: flex;
+align-items: center;
+justify-content: space-between; 
+}
+
+
+nav img{
+position: relative;
+width: 120px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 20px;
+}
+
+nav ul li{
+list-style: none;
+display: inline-block;
+margin-left: 40px;
+}
+
+nav ul li a {
+text-decoration: none;
+color: #fff;
+font-size: 17px;
+}
